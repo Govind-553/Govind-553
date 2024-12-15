@@ -1,18 +1,36 @@
-- 👋 Hi, I’m Govind Choudhari staying at Dahisar Mumbai.
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning BE in Information Technology from Atharva College of Engineering Malad Mumbai.
-- 💞️ I’m looking to collaborate with the tech companies who offers internship to freshers based on their projects and resume. 
-- ♦️ My Skills:
-     ▪️HTML, CSS, JavaScript for web development
-     ▪️Python (basic knowledge, libraries)
-     ▪️MySQL for databases
-     ▪️OOP, C++, Java (JFrames)
-     ▪️Project Management and Leadership
-- 📫 Reach out me via following social media handles:
-- 🔗  Links I have given in the profile section ✅.
-     ▪️Linkedin
-     ▪️Email
-     ▪️Instagram
-- 😄 Pronouns: Mr./He/Him
-- ⚡ Fun fact: Passionate and enthusiast about exploring new-new technologies and things 
+**🌟 I’m Govind Choudhari 🌟**<br>
+✨ A dreamer & passionate explorer from **Dahisar, Mumbai 🏙️**<br>
+
+### ✨ About Me
+**🌟 Aspiring Full Stack Developer** with a passion for crafting intuitive and efficient web applications.<br>
+📚 Pursuing a **Bachelor's in Information Technology at Atharva College of Engineering, Malad, Mumbai.**<br>
+💡 Always eager to explore cutting-edge technologies and expand my skillset.<br><br>
+
+### 🤝 What I'm Looking For
+🚀 Excited to collaborate with tech companies offering internships to freshers based on their projects and resumes.<br><br>
+
+### ♦️ My Skill Set
+**🌐 Web Development:**
+* HTML, CSS, JavaScript<br>
+  
+**🐍 Programming:**
+* Python (basic knowledge with libraries)
+* C++, Java (JFrames), and Object-Oriented Programming (OOP)<br>
+  
+**💾 Databases:**
+* MySQL<br>
+
+**🔧 Other Skills:**
+* Project Management & Leadership<br><br>
+  
+### 📫 Let’s Connect!
+🔗 Reach out to me on **my social media handles** listed in my profile:<br>
+* **LinkedIn**
+* **Email**
+* **Instagram**<br><br>
+  
+**😄 Pronouns:** He/Him<br>
+**⚡ Fun Fact:** I'm an enthusiastic learner, always curious to explore new technologies and trends.
+
+
 
