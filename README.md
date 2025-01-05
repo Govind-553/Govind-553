@@ -3,7 +3,7 @@
 
 ---
 
-### ✨ About Me
+## ✨ About Me
 **🌟 Aspiring Full Stack Developer** with a passion for crafting intuitive and efficient web applications.<br>
 📚 Pursuing a **Bachelor's in Information Technology at Atharva College of Engineering, Malad, Mumbai.**<br>
 💡 Always eager to explore cutting-edge technologies and expand my skillset.
@@ -13,24 +13,30 @@
 
 ---
 
-### ♦️ My Skill Set
-**🌐 Web Development:**
-* HTML5 
+## ♦️ My Skill Set
+### **🌐 Technical Skills:**
+
+**1. Frontend:**
+* HTML5
 * CSS
 * JavaScript
 * ReactJS101
   
-**🐍 Programming:**
+**2. Backend:**
 * Python (basic knowledge with libraries)
 * C++, Java (JFrames), and Object-Oriented Programming (OOP)
 * NodeJS & ExpressJS for backend development & API calls 
   
-**💾 Databases:**
+**3. 💾 Databases:**
 * MySQL
 * MongoDB
 
-**🔧 Other Skills:**
-* Project Management & Leadership<br><br>
+### **🔧 Soft Skills:**
+* Teamwork & Collaboration 
+* Project Management
+* Leadership
+* Time Management
+* Adaptability 
   
 ### 📫 Let’s Connect!
 🔗 Reach out to me on **my social media handles** listed in my profile:<br>
