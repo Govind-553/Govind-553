@@ -20,31 +20,43 @@
 * HTML5
 * CSS
 * JavaScript
-* ReactJS101
+* ReactJS
+* ShadCN UI
   
 **2. Backend:**
-* Python (basic knowledge with libraries)
-* C++, Java (JFrames), and Object-Oriented Programming (OOP)
-* NodeJS & ExpressJS for backend development & API calls 
-  
+* Python libraries - Tensorflow, Scikit-learn, Tkinter, SMTP, Pyttsx3, Numpy, Pandas, Matplotlib, Keras.
+* C++ 101, Java (JFrames).
+* NodeJS, Express, Flask for backend development & API calls
+
 **3. 💾 Databases:**
 * MySQL
 * MongoDB
-
+* Supabase
+* Firebase Studio
+  
 ### **🔧 Soft Skills:**
 * Teamwork & Collaboration 
 * Project Management
 * Leadership
 * Time Management
-* Adaptability 
-  
-### 📫 Let’s Connect!
-🔗 Reach out to me on **my social media handles** listed in my profile:<br>
-* **LinkedIn**
-* **Email**
-* **Instagram**
-* 🤝 For **Collaboration** DM me.
+* Adaptability
 ---
+  
+### 📫 Connect with me!
+<a href="mailto:choudharygovind553@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" height="60" />
+</a> <br>
+<a href="https://www.linkedin.com/in/govind-choudhari-967960285">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"" height="60" />
+</a>
+
+* 🤝 DM me for **collaboration opportunities** and let's create something extraordinary together!
+--- 
+
+## 📸 Live Preview 
+<a href="https://govind-553.github.io/Personal-Portfolio-Site/">
+  <img alt="Click Here!" src="https://img.shields.io/badge/Click%20Here!-1abc9c?style=for-the-badge&logo=internet-explorer&logoColor=white" height="60" />
+</a>
   
 **😄 Pronouns:** He/Him<br>
 **⚡ Fun Fact:** I'm an enthusiastic learner, always curious to explore new technologies and trends.
