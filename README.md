@@ -1,65 +1,55 @@
-**🌟 I’m Govind Choudhari 🌟**<br>
-✨ A dreamer & passionate explorer from **Dahisar, Mumbai 🏙️**
+<h1 align="center">🌟 Hi, I'm Govind Choudhari 🌟</h1>
+<h3 align="center">A Passionate Full Stack Developer & AI/ML Explorer From Mumbai, India 🇮🇳</h3>
 
 ---
 
-## ✨ About Me
-**🌟 Aspiring Full Stack Developer** with a passion for crafting intuitive and efficient web applications.<br>
-📚 Pursuing a **Bachelor's in Information Technology at Atharva College of Engineering, Malad, Mumbai.**<br>
-💡 Always eager to explore cutting-edge technologies and expand my skillset.
+<div align="center">
 
-### 🤝 What I'm Looking For
-🚀 Excited to collaborate with tech companies offering internships to freshers based on their projects and resumes. 
+<table>
+<tr>
+<td width="60%" align="left">
+
+### 🌟 Who I Am  
+- Aspiring **Full Stack Developer** passionate about building intuitive, scalable digital experiences.  
+- Pursuing **B.E. in Information Technology** at Atharva College of Engineering, Malad, Mumbai.  
+- Curious learner exploring **AI/ML, automation, backend systems**, and real-world problem-solving.
+
+<br>
+
+### 🤝 What I’m Looking For  
+- Open to **full-time roles & internship opportunities** where I can learn, contribute, and grow through impactful development projects.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" alt="developer gif"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## ♦️ My Skill Set
-### **🌐 Technical Skills:**
+## 📫 Connect With Me
 
-**1. Frontend:**
-* HTML5
-* CSS
-* JavaScript
-* ReactJS
-* ShadCN UI
-  
-**2. Backend:**
-* Python libraries - Tensorflow, Scikit-learn, Tkinter, SMTP, Pyttsx3, Numpy, Pandas, Matplotlib, Keras.
-* C++ 101, Java (JFrames).
-* NodeJS, Express, Flask for backend development & API calls
+<p align="left">
+<a href="mailto:choudharygovind553@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48px"></a>
+<a href="https://www.linkedin.com/in/govind-choudhari-967960285"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"></a>
+<a href="https://github.com/Govind-553"><img src="https://skillicons.dev/icons?i=github" width="48px"></a>
+<a href="https://www.instagram.com/govind_official_553"><img src="https://skillicons.dev/icons?i=instagram" width="48px"></a>
+<a href="https://www.kaggle.com/govindchoudhari"><img src="https://skillicons.dev/icons?i=kaggle" width="48px"></a>
+</p>
 
-**3. 💾 Databases:**
-* MySQL
-* MongoDB
-* Supabase
-* Firebase Studio
-  
-### **🔧 Soft Skills:**
-* Teamwork & Collaboration 
-* Project Management
-* Leadership
-* Time Management
-* Adaptability
 ---
-  
-### 📫 Connect with me!
-<a href="mailto:choudharygovind553@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" height="60" />
-</a> <br>
-<a href="https://www.linkedin.com/in/govind-choudhari-967960285">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"" height="60" />
-</a>
 
-* 🤝 DM me for **collaboration opportunities** and let's create something extraordinary together!
---- 
+## 🧰 Languages & Tools I Use  
 
-## 📸 Live Preview 
-<a href="https://govind-devspace.netlify.app/">
-  <img alt="Click Here!" src="https://img.shields.io/badge/Click%20Here!-1abc9c?style=for-the-badge&logo=internet-explorer&logoColor=white" height="60" />
-</a>
-  
-**😄 Pronouns:** He/Him<br>
-**⚡ Fun Fact:** I'm an enthusiastic learner, always curious to explore new technologies and trends.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,nodejs,express,flask,mysql,mongodb,supabase,firebase,git,github,postman,vercel,netlify,bootstrap,tailwind,figma,tensorflow" />
+</p>
 
-
+---
 
