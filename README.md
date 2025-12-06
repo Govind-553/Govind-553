@@ -48,7 +48,7 @@
 ## 🧰 Languages & Tools I Use  
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,nodejs,express,flask,mysql,mongodb,supabase,firebase,git,github,postman,vercel,netlify,bootstrap,tailwind,figma,tensorflow" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,nodejs,express,flask,mysql,mongodb,supabase,firebase,git,github,postman,vercel,netlify,bootstrap,tailwind,tensorflow" />
 </p>
 
 ---
