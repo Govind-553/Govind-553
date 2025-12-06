@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Hi, I'm Govind Choudhari 🌟</h1>
-<h3 align="center">A Passionate Full Stack Developer & AI/ML Explorer From Mumbai, India 🇮🇳</h3>
+<h3 align="center">A Passionate Full Stack Developer & AI/ML Explorer From Mumbai</h3>
 
 ---
 
