@@ -12,8 +12,6 @@
 
 ### 👉 Explore My Portfolio: <a href="https://govind-devspace.netlify.app/">govind-devspace.netlify.app</a>
 
----
-
 ## 📫 Connect With Me
 
 <p align="left">
