@@ -2,12 +2,12 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230px" alt="developer gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="325px" height="195px" alt="developer gif" />
 
 ###  📌 Profile Overview  
 
 - Full Stack Developer & AI/ML Explorer from Mumbai, India.  
-- Building clean, scalable web apps with JS, Python & modern backends.  
+- Building scalable web apps using JS, Flask & emerging tech.  
 - Open to full-time & internship roles on impactful products.
 
 ### 👉 Explore My Portfolio: <a href="https://govind-devspace.netlify.app/">govind-devspace.netlify.app</a>
