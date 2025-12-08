@@ -1,55 +1,63 @@
-<h1 align="center">🌟 Hi, I'm Govind Choudhari 🌟</h1>
-<h3 align="center">A Passionate Full Stack Developer & AI/ML Explorer From Mumbai</h3>
+<h1 align="center">Hi, 👋 Govind Here!</h1>
 
 ---
 
-<div align="center">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230px" alt="developer gif" />
 
-<table>
-<tr>
-<td width="60%" align="left">
+###  📌 Profile Overview  
 
-### 🌟 Who I Am  
-- Aspiring **Full Stack Developer** passionate about building intuitive, scalable digital experiences.  
-- Pursuing **B.E. in Information Technology** at Atharva College of Engineering, Malad, Mumbai.  
-- Curious learner exploring **AI/ML, automation, backend systems**, and real-world problem-solving.
+- Full Stack Developer & AI/ML Explorer from Mumbai, India.  
+- Building clean, scalable web apps with JS, Python & modern backends.  
+- Open to full-time & internship roles on impactful products.
 
-<br>
-
-### 🤝 What I’m Looking For  
-- Open to **full-time roles & internship opportunities** where I can learn, contribute, and grow through impactful development projects.
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" alt="developer gif"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+### 👉 Explore My Portfolio: <a href="https://govind-devspace.netlify.app/">govind-devspace.netlify.app</a>
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="mailto:choudharygovind553@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48px"></a>
-<a href="https://www.linkedin.com/in/govind-choudhari-967960285"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"></a>
-<a href="https://github.com/Govind-553"><img src="https://skillicons.dev/icons?i=github" width="48px"></a>
-<a href="https://www.instagram.com/govind_official_553"><img src="https://skillicons.dev/icons?i=instagram" width="48px"></a>
-<a href="https://www.kaggle.com/govindchoudhari"><img src="https://skillicons.dev/icons?i=kaggle" width="48px"></a>
+  <a href="mailto:choudharygovind553@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="32px" />
+  </a>
+  <a href="https://www.linkedin.com/in/govind-choudhari-967960285">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32px" />
+  </a>
+  <a href="https://github.com/Govind-553">
+    <img src="https://skillicons.dev/icons?i=github" width="32px" />
+  </a>
+  <a href="https://www.instagram.com/govind_official_553">
+    <img src="https://skillicons.dev/icons?i=instagram" width="32px" />
+  </a>
+  <a href="https://www.kaggle.com/govindchoudhari">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kaggle.svg" width="28px" alt="Kaggle" />
+  </a>
 </p>
 
 ---
 
 ## 🧰 Languages & Tools I Use  
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,nodejs,express,flask,mysql,mongodb,supabase,firebase,git,github,postman,vercel,netlify,bootstrap,tailwind,tensorflow" />
-</p>
+<div style="width: 550px; white-space: nowrap; overflow-x: auto;">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https:/skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</div>
 
 ---
-
