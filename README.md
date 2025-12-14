@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="220px" alt="developer gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="325px" height="195px" alt="developer gif" />
 
 ###  📌 Profile Overview  
 
