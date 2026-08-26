@@ -6,9 +6,10 @@
 
 ###  📌 Profile Overview  
 
-- Full Stack Developer & AI/ML Explorer from Mumbai, India.  
-- Building scalable web apps using JS, Flask & emerging tech.  
-- Open to full-time & internship roles on impactful products.
+- Full Stack Engineer | Software Developer from Mumbai, India.  
+- Building scalable web apps using JS, Python and with integration of AI/ML.  
+- Open to full-time & graduate trainee roles while building impactful products.
+- Want to contribute, grow and learn from experienced professionals. 
 
 ### 👉 Explore My Portfolio: <a href="https://govind-devspace.netlify.app/">govind-devspace.netlify.app</a>
 
