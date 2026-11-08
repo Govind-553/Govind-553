@@ -58,7 +58,6 @@
   <img src="https://cdn.simpleicons.org/render/FFFFFF" width="32" height="32" alt="Render" />
   <img src="https://skillicons.dev/icons?i=docker" width="32" height="32" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=azure" width="32" height="32" alt="Azure" />
-  <img src="https://skillicons.dev/icons?i=sqlite" width="32" height="32" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="32" height="32" alt="Scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="32" height="32" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="32" height="32" alt="NumPy" />
