@@ -1,7 +1,5 @@
 <h1 align="center">Hi, 👋 Govind Here!</h1>
 
----
-
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="325px" height="195px" alt="developer gif" />
 
 ###  📌 Profile Overview  
@@ -33,8 +31,6 @@
   </a>
 </p>
 
----
-
 ## 🧰 Languages & Tools
 
 <p align="left">
@@ -64,5 +60,3 @@
   <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=tensorflow" width="32" height="32" alt="TensorFlow" />
 </p>
-
----
